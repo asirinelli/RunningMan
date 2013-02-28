@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Running Man</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="reset">R. à Z.</string>
+    <string name="start">Départ</string>
+    <string name="stop">Arrêt</string>
+    <string name="kilometres_float">%.3f kilomètres.</string>
+    <string name="kilometres_int">%d kilomètres.</string>
+    <string name="kilometers_per_hours">%.1f kilomètres par heures.</string>
+    <string name="Last_kilometer_in_">Dernier kilomètre en %s.</string>
+    <string name="hours_">%d heures </string>
+    <string name="minutes_and_">%d minutes et </string>
+    <string name="seconds">%d secondes</string>
+    <string name="voice">Voix</string>
+	<string name="quit">Quitter</string>
+	<string name="quitting">Au revoir&#8230;</string>
+	<string name="quit_sure">Voulez-vous réellement quitter l\'application ?</string>
+	<string name="yes">Oui</string>
+	<string name="no">Non</string>
+</resources>
